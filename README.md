@@ -1,4 +1,4 @@
-![CI tests](https://github.com/KatCodes420/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+npm install -D --save-exact prettier![CI tests](https://github.com/KatCodes420/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
