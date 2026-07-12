@@ -1,6 +1,7 @@
 import js from "@eslint/js";
 import globals from "globals";
 import tseslint from "typescript-eslint";
+import pluginSecurity from "eslint-plugin-security";
 import { defineConfig } from "eslint/config";
 
 export default defineConfig([
