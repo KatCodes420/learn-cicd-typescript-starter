@@ -25,3 +25,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 Kat's version of Boot.dev's Notely app.
 
+# CI trigger
